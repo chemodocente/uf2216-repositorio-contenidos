@@ -13,4 +13,5 @@ Nombre del alumno o grupo.
   ##### Quinto Nivel
 :honeybee:
 
-: )
+[.] Opcion 1
+[X] Opción 2
